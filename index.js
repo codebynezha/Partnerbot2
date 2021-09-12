@@ -58,9 +58,9 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(`  https://discord.gg/cYvQ2A6H9X`) ///Link Server Never ///RaWeN
+  message.author.send(`  https://discord.gg/zyx7SPUFZ9`) ///Link Server Never ///nezha
     
-  client.channels.get("879821228712534046").send(
+  client.channels.get("880174770166042705").send(
 `> Nezha Up | By: <@${message.author.id}> 
 ${message.content}`)
 }
@@ -79,4 +79,4 @@ client.user.setGame(`SEND ME YOUR SERVER LINK |NEZHA UP`)
 
 
 
-client.login("ODg2NDA1NDY4MTM2ODIwNzM2.YT1HbA.cenb-uSkLG4dJJprEMxpa38h-K0");///FiiX ///Token
+client.login("ODg2NzQwMjg3NDc5NzcxMTQ2.YT5_Pw.WX9Wu264Pc8rOaopq6jrRwy4TW8");///FiiX ///Token
